@@ -2,9 +2,9 @@
 # How to use GPG - Cheatsheet
 
 ## Types of files
-- .gpg - generic gpg file
+- .gpg - generic binary gpg file
 - .sig - binary signature file, used to verify that a file is authentic
-- .asc - armoured signature, so plaintext and readable
+- .asc - ascii file (rather than binary, usually has stuff like "---- BEGIN SUCHANDSUCH ----" in it)
 
 ## Types of Key Identification
 Any of the following can be used in place of `<key-ID>`
