@@ -49,7 +49,7 @@ To get the public key, either:
 
 ### Copy + Paste Public Key
 1. `$vim <companyname>.gpg` to open a new key file
-2. `[Ctrl+V]` to paste the public key
+2. Paste the public key
 3. `:wq` to write the file and quit vim OR `:q!` to exit and try again
 4. Go to Import Public Key
 
